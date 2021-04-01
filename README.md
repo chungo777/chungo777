@@ -18,7 +18,8 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                   "Programmer, love malwares, cyber security geek, python developer, Boricuaa 🇵🇷",
+		"_ 🌎 Country:":		    "Puerto Rico 🇵🇷 Puñetaa",
+		"- ⚡ Quick bio:":                   "Programmer, love malwares, cyber security geek, python developer🇷",
 		"- 🔭 I’m currently working on":    "Programmer",
 		"- 🌱 I’m currently learning":      "Go, .Net Core, Cryptography",
 		"- 📫 How to contact me:":          "Twitter: Chungo_0",
