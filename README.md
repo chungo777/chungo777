@@ -18,10 +18,11 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                      "",
-		"- 🔭 I’m currently working on":      "Programmer",
-		"- 🌱 I’m currently learning":        "Go, .Net Core, Cryptography",
-		"- 📫 How to contact me:":              "Twitter: https://twitter.com/Chungo_0",
+		"- ⚡ Quick bio:":                   "Programmer, love malwares, cyber security geek, python developer, Boricuaa 🇵🇷",
+		"- 🔭 I’m currently working on":    "Programmer",
+		"- 🌱 I’m currently learning":      "Go, .Net Core, Cryptography",
+		"- 📫 How to contact me:":          "Twitter: Chungo_0",
+		"- 🌐 Blogs":		            "https://hackinpills.blogspot.com, https://www.patreon.com/HackingPills"
 	}
 }
 ```
